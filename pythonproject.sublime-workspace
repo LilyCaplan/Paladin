@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"fe",
+				"flex-start"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"paddig",
+				"padding-left"
+			],
+			[
+				"t",
+				"tr	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"TITLE",
+				"title"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"Item",
+				"ItemAdmin"
+			],
+			[
+				"Cities",
+				"Cities"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bo",
+				"border-collapse"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"w",
+				"flex-wrap"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"image",
+				"border-image"
+			],
+			[
+				"mR",
+				"margin"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"do",
+				"do	Do While Loop"
+			],
+			[
+				"num",
+				"numtwo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"d",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lilycaplan/Desktop/pythonproject/src",
+		"/Users/lilycaplan/Desktop/pythonproject"
+	],
+	"file_history":
+	[
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/paladin_dash/paladin_dash/urls.py",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/paladin_dash/urls.py",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/dashboard/views.py",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/dashboard/models.py",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/stats/views.py",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/paladin_dash/settings.py",
+		"/Users/lilycaplan/Desktop/Paladin/Dash.css",
+		"/Users/lilycaplan/Desktop/Paladin/Dash.html",
+		"/Users/lilycaplan/Desktop/Paladin/ultesting.html",
+		"/Users/lilycaplan/probonodash/myvenv/lib/djangoproject/dashboard/admin.pyc",
+		"/Users/lilycaplan/djangogirls/paladindash/paladindash/settings.py",
+		"/Users/lilycaplan/Desktop/Paladin/Navtesting.html",
+		"/Users/lilycaplan/Desktop/Paladin/tabletest.js",
+		"/Users/lilycaplan/Desktop/Paladin/tabletest.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/New.html",
+		"/Users/lilycaplan/Desktop/Bootcamp Project/LilyCaplan.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/css/untitled.html",
+		"/Users/lilycaplan/Desktop/Screen Shot 2016-07-29 at 2.33.08 PM.png",
+		"/Users/lilycaplan/Desktop/Paladin/tabletest.css",
+		"/Users/lilycaplan/Desktop/Bootcamp/LilyCaplan.css",
+		"/Users/lilycaplan/Desktop/Bootcamp/LilyCaplan.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/style.css",
+		"/Users/lilycaplan/Desktop/Dashboard/firstdjango/inventory/admin.py",
+		"/Users/lilycaplan/Desktop/Dashboard/firstdjango/inventory/models.py",
+		"/Users/lilycaplan/Desktop/Dashboard/firstdjango/firstdjango/settings.py",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/Index.html",
+		"/Users/lilycaplan/Desktop/Web Design/index.html",
+		"/Users/lilycaplan/Desktop/untitled folder/test.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/thirdistallment.css",
+		"/Users/lilycaplan/Desktop/Bootcamp/autoFill.js",
+		"/Users/lilycaplan/Desktop/Bootcamp/thirdinstallment.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/LilyCaplan.js",
+		"/Users/lilycaplan/Desktop/Bootcamp/cities.js",
+		"/Users/lilycaplan/Desktop/Bootcamp/Cities.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/add.js",
+		"/Users/lilycaplan/Desktop/Bootcamp/Javascript1.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/Thatjs.css",
+		"/Users/lilycaplan/Desktop/python/button.py",
+		"/Users/lilycaplan/Desktop/Bootcamp/images.jpg",
+		"/Users/lilycaplan/Desktop/Bootcamp/float_practice.css",
+		"/Users/lilycaplan/Desktop/Bootcamp/float_practice.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/style1.css",
+		"/Users/lilycaplan/Desktop/Bootcamp/Table.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/first.html",
+		"/Users/lilycaplan/Desktop/Bootcamp/css/table.css",
+		"/Users/lilycaplan/Desktop/practice.js",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/contact.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/udacity.js",
+		"/Users/lilycaplan/Desktop/practiceJS.html",
+		"/Users/lilycaplan/Downloads/framework/css/main.css",
+		"/Users/lilycaplan/Desktop/Protfolio/Framework/css/main.css",
+		"/Users/lilycaplan/Desktop/Protfolio/Framework/css/Utest.html",
+		"/Users/lilycaplan/Desktop/Intro summer projects /toplist/Style.css",
+		"/Users/lilycaplan/Desktop/Intro summer projects /toplist/IntroIndex.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/test.html",
+		"/Users/lilycaplan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lilycaplan/Downloads/PhotographyPortfolio-2-prompt 2/about.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/Favorite Artists",
+		"/Users/lilycaplan/Desktop/mathProblems.cpp",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/Ref.cpp",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/stocks.cpp",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/cokeMachine.cpp",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/mathProblems.cpp",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/text.html",
+		"/Users/lilycaplan/Desktop/Web Design/Artists/cs127.cpp",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.inc.php",
+		"/Users/lilycaplan/Desktop/Web Design/index"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pythonproject.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Web Design/Artists/Index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

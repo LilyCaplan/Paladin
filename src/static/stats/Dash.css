@@ -1,0 +1,582 @@
+body{
+    background-color:#e6e6e6;
+}
+
+header{
+    width: 100%;
+    height:115px;
+    border-bottom: solid;
+    border-width: 15px;
+    border-color: #00a89f;
+    padding-top: 20px;
+    background-color:white;
+}
+
+h1{
+    float: right;
+    margin-right: 20px;
+    position: center;
+    height:115px;
+    color: #00a89f;
+}
+h5{
+    margin-left: 30px;
+}
+
+/* all stats info */
+.stats{
+    height:75px;
+    border: solid;
+    border-left:none;
+    border-right:none;
+    background-color:white;
+    border-width:2px;
+    border-color:#e6e6e6;
+    color: #7c7b85;
+}
+#column1{
+    float:left;
+    height:75px;
+    margin: 0;
+    width:25%;
+    border-left: none;
+    border-right: solid;
+    display: inline-flex;
+    border-width:2px;
+    border-color:#e6e6e6;
+}
+#py_Attorneys{
+    height:20px;
+    font-size: 50px;
+    margin-left: 75px;
+}
+#column2{
+    float:left;
+    margin: 0;
+    width:25%;
+    height:75px;
+    border-right: solid;
+    border-left: none;
+    display: inline-flex;
+    border-width:2px;
+    border-color:#e6e6e6;
+}
+#py_Hours{
+    height:20px;
+    font-size: 50px;
+    margin-left: 75px;
+}
+#column3{
+    float:left;
+    height:75px;
+    margin: 0;
+    width:25%;
+    border-right: solid;
+    border-left: none;
+    display: inline-flex;
+    border-width:2px;
+    border-color:#f2f2f2;
+}
+#Attorneys_Hours{
+    height:20px;
+    font-size: 50px;
+    margin-left: 75px;
+}
+#column4{
+    float:left;
+    height:75px;
+    margin: 0;
+    width:15%;
+    border-left: none;
+    border-right: none;
+    display: inline-flex;
+    border-width:2px;
+    border-color:#f2f2f2;
+}
+#py_Projects{
+    height:20px;
+    font-size: 50px;
+    margin-left: 75px;
+}
+p{
+    margin-left: 25px;
+}
+
+/* end stats info */
+
+/* middle section (nonprofit+opportunities) info */
+
+.container{
+    height:400px;
+    width:100%;
+    padding-top: 50px;
+    display: inline-block;
+}
+/* all nonprofit info */
+.left_half{
+    height:400px;
+    float: left;
+}
+.nonprofitpartners{
+    height:350px;
+    width:500px;
+    margin-left: 30px;
+    border-top: solid;
+    border-top-width: 10px;
+    border-top-color: #956ca9;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    background-color:white;
+    border-left-width:5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#title_nonprofit{
+    height: 45px;
+    width:485px;
+    border-width:2px;
+    border-color:#e6e6e6;
+    border-bottom:solid;
+}
+h4{
+    color: #5c5c5c;
+}
+ul.nonprofit_list{
+    height:265px;
+    width:450px;
+    list-style-type:none;
+    display:inline-block;
+    border-bottom: solid;
+    border-color:#e6e6e6;
+    overflow: scroll;
+}
+li.nonprofit_row{
+    border-bottom: solid;
+    border-width:2px;
+    border-color:#e6e6e6;
+    width:400px;
+    display:inline-flex;
+    color:#7c7b85;
+}
+
+/*End nonprofit info*/
+
+/*All opportunities info*/
+.right_half{
+    height:400px;
+    float: right;
+}
+.opportunityRequests{
+    margin-right: 45px;
+    width:740px;
+    height:350px;
+    border-top: solid;
+    border-top-width: 10px;
+    padding-left:15px;
+    padding-bottom: 15px;
+    background-color:white;
+    border-top-color:#00a89f;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#title_opportunity{
+    height: 45px;
+    width:725px;
+    border-bottom: solid;
+}
+#opportunity_header{
+    width:215px;
+}
+ul.opportunity_request_list{
+    height:265px;
+    width:725px;
+    padding:0px;
+    display:inline-block;
+    overflow:scroll;
+    border-bottom: solid;
+    border-color: #e6e6e6;
+}
+li.opportunity_row{
+    width:875px;
+    height:45px;
+    border-bottom: solid;
+    border-bottom-color:#e6e6e6;
+    border-bottom-width:2px;
+    padding-left:10px;
+    display:inline-flex;
+    margin-top: 15px;
+    margin-left: 15px;
+    color:#7c7b85;
+}
+p.Attorney_who_Request{
+    width:70px;
+    height:20px;
+    margin:0px;
+    margin-right:5px;
+}
+
+p.case_in_opportunity{
+    width:300px;
+    height:20px;
+    margin:0px;
+    margin-left: 5px;
+}
+p.interested_class{
+    width:97px;
+    height:20px;
+    margin: 0px;
+    margin-bottom:40px;
+}
+button.Accept_button{
+    width:70px;
+    height:35px;
+    margin-left:40px;
+    background-color:#000099;
+    border:none;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    color:white;
+}
+button.Deny_button{
+    width:50px;
+    height:35px;
+    margin-left:10px;
+    background-color:#ffcc00;
+    border:none;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    color:white;
+}
+
+/*End opportunities info*/
+
+/* All attorney info*/
+/*vv div containing all of the bootomhalf of screen*/
+.bottom_container{
+    height:500px;
+    width:100%;
+}
+/*vv div that contains the attorney list with title*/
+.attorneys{
+    height:485px;
+    width:1385px;
+    margin-left: 30px;
+    border-top: solid;
+    border-top-width:10px;
+    border-top-color:#848a9d;
+    padding-left: 15px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*vv div for title*/
+.row{
+    height:55px;
+    width:1290px;
+    margin-left: 20px;
+    padding-left:45px;
+    border-bottom:solid;
+    display:inline-flex;
+}
+/*vv individual divs for header*/
+#A_title{
+    margin-left:150px;
+}
+#status{
+    padding-left: 120px;
+}
+#case{
+    padding-left: 80px;
+}
+#total_hours{
+    padding-left:20px;
+}
+#last_visited{
+    padding-left: 50px;
+}
+
+ul.Attorney_Attorney_List{
+    display:inline-block;
+    height:370px;
+    width:1300px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    list-style: none;
+}
+/*vv rows in unordered lists*/
+.even {
+    display:inline-flex;
+    margin-left: 10px;
+    width:1270px;
+    height:80px;
+    background-color:#DDD;
+}
+.odd{
+    display:inline-flex;
+    margin-left: 10px;
+    width:1270px;
+    height:80px;
+}
+/*vv pulled data */
+.employees{
+    margin-top: 15px;
+    padding-left: 5px;
+    width:100px;
+}
+.Case_Status{
+    height:30px;
+    padding-top: 10px;
+    width:75px;
+    margin-left:115px;
+    margin-top:15px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 5px;
+    color:white;
+}
+.Case_Status_Engaged{
+    height:30px;
+    padding-top: 10px;
+    width:75px;
+    margin-left:115px;
+    margin-top:15px;
+    text-align: center;
+    background-color: #999cad;
+    border-radius: 5px;
+    color:white;
+}
+.Case_Status_Interested{
+    height:30px;
+    padding-top: 10px;
+    width:75px;
+    margin-left:115px;
+    margin-top:15px;
+    text-align: center;
+    background-color: #ffca00;
+    border-radius: 5px;
+    color:white;
+}
+.Attorney_List_Cases{
+    margin-left: 70px;
+}
+
+/*End attorney infor*/
+@media screen and (max-width: 1440px){
+    .nonprofitpartners{
+        width:400px;
+    }
+    #title_nonprofit{
+        width:385px;
+    }
+    ul.nonprofit_list{
+        width:345px;
+    }
+
+    li.nonprofit_row{
+        width:300px;
+    }
+    .opportunityRequests{
+        width:675px;
+    }
+
+    #title_opportunity{
+        width:650px;
+    }
+    ul.opportunity_request_list{
+        width:650px;
+        overflow-x:scroll;
+    }
+    button.Accept_button{
+        margin-left: 0px;
+    }
+    #column4{
+        width:10%;
+    }
+    .attorneys{
+        width:1120px;
+    }
+    .row{
+        width:1020px;
+    }
+    #A_title{
+        margin-left:0px;
+    }
+    #total_hours{
+        padding-left: 320px;
+    }
+    #last_visited{
+        padding-left: 50px;
+    }
+    ul.Attorney_Attorney_List{
+        width:1030px;
+
+    }
+}
+@media screen and (max-width: 1200px){
+    #py_Attorneys{
+        font-size: 40px;
+        margin-right:15px;
+        margin-top:10px;
+    }
+    #py_Hours{
+        font-size: 40px;
+        margin-right: 15px;
+        margin-top:10px;
+    }
+    #Attorneys_Hours{
+        font-size: 40px;
+        margin-right: 15px;
+        margin-top:10px;
+    }
+    #py_Projects{
+        font-size: 40px;
+        margin-right:15px;
+        margin-top:10px;
+    }
+    .conatiner{
+        height:1150px;
+        display:inline-block;
+}
+    .left_half{
+        float:none;
+}
+    .right_half{
+        float:none;
+}
+    .nonprofitpartners{
+        margin-left:150px;
+        width:675px;
+}
+    #title_nonprofit{
+        width:650px;
+}
+    ul.nonprofit_list{
+        width:630px;
+}
+
+    li.nonprofit_row{
+        width:600px;
+    }
+    .opportunityRequests{
+        margin-left:150px;
+    }
+    .attorneys{
+        width:675px;
+        margin-top:25px;
+        margin-left:150px;
+    }
+    .row{
+        width:575px;
+    }
+    #A_title{
+        margin-left:0px;
+    }
+    #status{
+        padding-left:300px;
+    }
+    #case{
+        display:none;
+    }
+    #total_hours{
+        display:none;
+    }
+    #last_visited{
+        display:none;
+    }
+    ul.Attorney_Attorney_List{
+        width:585px;
+        margin-left:0px;
+        margin-right:35px;
+        overflow-x:scroll;
+    }
+
+}
+@media screen and (max-width: 550px){
+    header{
+        width:375px;
+        margin-bottom:0px;
+    }
+    .stats{
+        display: inline-block;
+    }
+    #column1{
+        margin-top: 0px;
+        width:375px;
+        border:none;
+        border-bottom: solid;
+        border-width:2px;
+        border-color:#e6e6e6;
+        background-color: white;
+    }
+    #column2{
+        width:375px;
+        border:none;
+        border-bottom: solid;
+        border-width:2px;
+        border-color:#e6e6e6;
+        background-color: white;
+    }
+    #column3{
+        width:375px;
+        border:none;
+        border-bottom: solid;
+        border-width:2px;
+        border-color:#e6e6e6;
+        background-color: white;
+    }
+    #column4{
+        width:375px;
+        border:none;
+        border-bottom: solid;
+        border-width:2px;
+        border-color:#e6e6e6;
+        background-color: white;
+    }
+    .nonprofitpartners{
+        margin-left: 0px;
+        margin-top: 190px;
+        width:375px;
+    }
+    #title_nonprofit{
+        width:360px;
+    }
+    #title_opportunity{
+        width:360px;
+    }
+    .opportunityRequests{
+        margin-left: 0px;
+        width:375px;
+    }
+    ul.opportunity_request_list{
+        overflow-x:scroll;
+        width:375px;
+    }
+
+    .attorneys{
+        margin-left: 0px;
+        width:375px;
+    }
+    ul.Attorney_Attorney_List{
+        width:275px;
+        margin-left: none;
+    }
+    .Attorney_List_Cases{
+        display: none;
+    }
+    .Case_Status{
+        margin-left: 40px;
+    }
+    .Case_Status_Engaged{
+        margin-left: 40px;
+    }
+    .Case_Status_Interested{
+        margin-left: 40px;
+    }
+    .row{
+        width:275px;
+    }
+    #A_title{
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    #status{
+        padding-left: 40px;
+    }
+}

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--loads path to static files-->
+    {% load staticfiles %}
+    <link href="{% static 'stats/Dash.css' %}" rel="stylesheet" type="text/css"/>
+
+
+</head>
+<header>
+    <h1 id="paladin">Paladin</h1>
+</header>
+<body>
+    <div class="stats">
+        <div id="column1">
+            <p>ACTIVE<br>
+            ATTORNEYS</p>
+            <div id="py_Attorneys">{{ count_name }}
+            </div>
+        </div>
+        <div id="column2">
+            <p>TOTAL<br>
+            HOURS</p>
+            <div id="py_Hours">{{ total_hours }}</div>
+        </div>
+        <div id="column3">
+            <p>AVERAGE<br>
+            HOURS</p>
+            <div id="Attorneys_Hours">{{ Average }}</div>
+        </div>
+       <div id="column4">
+            <p>COMPLETED<br>
+            PROJECTS</p>
+            <div id="py_Projects">{{ total_projects }}</div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="left_half">
+            <div class="nonprofitpartners">
+                <div id="title_nonprofit">
+                    <h4>CURRENT NONPROFIT PARTNERS</h4>
+                </div>
+                <ul class="nonprofit_list">
+                {% for j in Nonprofit_List %}
+
+                <li class="nonprofit_row"><img class="img"></img><p class="specific_nonprofits">{{ j.Nonprofit }}</p></li><br>
+
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="right_half">
+            <div class="opportunityRequests">
+                <div id="title_opportunity">
+                    <h4 class="opportunity_header" >OPPORTUNITY REQUESTS</h4>
+                </div>
+
+                <ul class="opportunity_request_list">
+                {% for i in Opportunity_Requests %}
+
+                <li class="opportunity_row"><p class="Attorney_who_Request">{{i.Attorneys_Who_Request}}</p><p class="interested_class">is interested in</p><p class="case_in_opportunity">{{i.Requested_Cases}}</p><button class="Accept_button" type="submit">Accept</button><button class="Deny_button" type="submit">Deny</button></li><br>
+
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_container">
+        <div class="attorneys">
+            <div class="row">
+            <h4 id="A_title">ATTORNEYS</h4>
+            <h5 id="status">Status</h5>
+            <h5 id="case">Case</h5>
+            <h5 id="total_hours">Total Hours</h5>
+            <h5 id="last_visited">Last Visited</h5>
+            </div>
+            <ul class="Attorney_Attorney_List">
+               {% for object_y in Attorneys_Items %}
+
+                {% autoescape off %} {{object_y}}  {% endautoescape %}
+
+
+
+
+                {% endfor %}
+
+
+
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
